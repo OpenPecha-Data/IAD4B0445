@@ -1,10 +1,10 @@
-|P004447|དུས་འབྲེལ་གསོ་སྦྱོང་ཚོགས་པའི་ཉི་མ། 
+|IAD4B0445|དུས་འབྲེལ་གསོ་སྦྱོང་ཚོགས་པའི་ཉི་མ། 
 | --- | --- 
 |Alternative Title |
 |Author| 阿嘉经师洛桑顿珠
 |BDRC ID | W8LS18072
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P004447)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P004447/releases/download/v1/du_drel_sojong_tsokpa_i_nyima_plain_P004447.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P004447/releases/download/v1/du_drel_sojong_tsokpa_i_nyima_pages_P004447.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/IAD4B0445)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/IAD4B0445/releases/download/v1/du_drel_sojong_tsokpa_i_nyima_plain_IAD4B0445.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/IAD4B0445/releases/download/v1/du_drel_sojong_tsokpa_i_nyima_pages_IAD4B0445.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W8LS18072)
